@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+
+}
+h1{
+  text-align: center;
+  font-size: 70px;
+  margin-top: 30px;
+  font-family: 'Bigelow Rules', cursive;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: rgb(5, 176, 182);
+  text-shadow: 1px 1px #fffb03;
+}
